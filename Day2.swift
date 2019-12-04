@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Day2.swift
 //  Day2
 //
 //  Created by Marcus Gollnick on 04.12.19.
@@ -48,7 +48,7 @@ func runProgramm(with code: [Int]) -> [Int] {
     return code
 }
 let newCode = runProgramm(with: inputCode)
-print("Answer2: \(newCode[0])")
+print("Answer1: \(newCode[0])")
 
 print("-----------Part 2")
 outerLoop: for n in (0...99).reversed() {
