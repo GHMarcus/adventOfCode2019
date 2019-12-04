@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Day3.swift
 //  Day3
 //
 //  Created by Marcus Gollnick on 03.12.19.
